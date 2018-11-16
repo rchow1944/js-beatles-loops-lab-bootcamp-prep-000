@@ -14,4 +14,5 @@ function johnLennonFacts(facts) {
     facts[size] = facts[size] + "!!!";
     size--; 
   }
+  return facts;
 }
